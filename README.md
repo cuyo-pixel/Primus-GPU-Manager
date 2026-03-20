@@ -49,7 +49,7 @@ Download from the [latest release](../../releases/latest).
 **Terminal:**
 ```bash
 flatpak install --user PrimusGPUManager.flatpak
-flatpak run io.github.primus-gpu-manager
+flatpak run io.github.Primus-GPU-Manager
 ```
 
 After installation it will appear in your app launcher as **Primus GPU Manager**.
@@ -75,8 +75,8 @@ chmod +x PrimusGPUManager-x86_64.AppImage
 ### From source
 
 ```bash
-git clone https://github.com/cuyo-pixel/primus-gpu-manager.git
-cd primus-gpu-manager
+git clone https://github.com/cuyo-pixel/Primus-GPU-Manager.git
+cd Primus-GPU-Manager
 python3 gpu_manager.py
 ```
 
@@ -113,7 +113,7 @@ Use the **↺** refresh button in the header after installing new software to pi
 
 **Flatpak:**
 ```bash
-flatpak uninstall io.github.primus-gpu-manager
+flatpak uninstall io.github.Primus-GPU-Manager
 ```
 
 **AppImage:** delete the `.AppImage` file. No files are written to the system.
