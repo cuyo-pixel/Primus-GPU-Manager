@@ -10,6 +10,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)]()
 [![DE](https://img.shields.io/badge/DE-COSMIC%20%2F%20GNOME-purple)]()
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Invítame%20a%20un%20café-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/cuyopixel)
 
 </div>
 
